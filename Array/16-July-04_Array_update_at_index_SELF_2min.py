@@ -15,11 +15,14 @@
 # index = 0,element = 99
 # Output: 99
 
-
-
-def updateArray(arr,n,idx,element):
-    #code here
+def updateArray(a,n,index,element):
     for i in range(n):
-        if (i==idx):
-            arr[i]=element
-            return arr[i]
+        if(i==index):
+            a[i]=element
+            return a
+
+a=[1,2,3,4]
+n=(len(a)-1)
+index=2
+element=9
+print(updateArray(a,n,index,element))

@@ -27,8 +27,10 @@
 # end, we have array elements as 
 # 1 2 3 50.
 
-
-def insertAtEnd(arr,sizeOfArray,element):
-    ##Your code here
+def insertAtEnd(arr,element):
     arr.append(element)
     return arr
+
+arr=[1,2,3,4]
+element=5
+print(insertAtEnd(arr,element))

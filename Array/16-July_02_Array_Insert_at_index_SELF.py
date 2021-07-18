@@ -35,8 +35,13 @@ class Solution:
     from index onward should be shifted one position ahead
      You may assume that the array already has sizeOfArray - 1
     elements.'''
-    
-    def insertAtIndex(self, arr, sizeOfArray, index, element):
-        #Your code here
-        arr.insert(index,element)
-        return arr
+
+
+def insertAtIndex(a,index,element):
+    a.insert(index,element)
+    return a
+
+a=[1,2,3,4,5]
+index=3
+element=8
+print(insertAtIndex(a,index,element))

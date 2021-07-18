@@ -29,21 +29,23 @@
 
 # This Code have O(n) Complexity ANd we have to write O(1)
 
-a=[1,2,3,4]
-k=2
-for i in range(len(a)):
-    if(i==k):
-        print(a[i])
+# a=[1,2,3,4]
+# k=2
+# for i in range(len(a)):
+#     if(i==k):
+#         print("-1")
         
-        
-# Complexity is O(1) 
+# -----------------------        
+
+# This Code have O(1) Complexity ANd we have to write O(1)
 
 def getByIndex():
     if idx<=n:
         print(arr[idx])
     else:
         print("-1")
-n = 4
-arr=[1 ,2, 3, 4]
-idx = 4
-print(getByIndex())    
+
+n=3
+arr=[1,2,3,4]
+idx=2
+print(getByIndex())
