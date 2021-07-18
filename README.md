@@ -26,7 +26,7 @@ List of problems are:
     5.Rotate an Array ---------Not Completed 15m
     6.Array is Sorted --------Not Completed 12+10m
    
-********      July 17 2021      ********
+********      July 18 2021      ********
 Practice Basic Problems on List 
 List of problems are:
     1.Max & min of array Revised (Self 10min)
@@ -34,5 +34,7 @@ List of problems are:
     3.Move all -ve numbers Revised (Self 1min)
     4.Kth Max & Min element of array -------Not Completed 25m
     5.Union_Of_Two_array -------Not Completed 20min
+	
 
+********      July 19 2021      ********
 
