@@ -1,4 +1,8 @@
-# Not Completed 09:10AM-09:20AM 20min
+# link https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#
+
+# 18-July 09:10AM-09:20AM 20min Not Completed
+# 19-July 08:20AM-08:25AM 5min Completed by Help Prashant
+
 
 
 # Union of two arrays 
@@ -33,21 +37,30 @@
 # union set of both arrays. So count is 7.
 
 
+# a=[1,2,3,4,5]
+# b=[1,2,3]
+# c=[]
+# d=[]
+# for i in range(len(a)):
+#     c.append(a[i])
+# for i in range(len(b)):
+#     c.append(b[i])
+# print(c)
+# n=len(c)
+# print(n)
+# for i in range(n+1):
+#     # for j in range(i):
+#         if(a[i]==a[i+1]):
+#             d.append(a[i])
+#         else:
+#             d.append(a[i])
+# print(d)
+
+
+# ---------------Prashant Code----------
+
+
 a=[1,2,3,4,5]
 b=[1,2,3]
-c=[]
-d=[]
-for i in range(len(a)):
-    c.append(a[i])
-for i in range(len(b)):
-    c.append(b[i])
-print(c)
-n=len(c)
-print(n)
-for i in range(n+1):
-    # for j in range(i):
-        if(a[i]==a[i+1]):
-            d.append(a[i])
-        else:
-            d.append(a[i])
-print(d)
+ans=a+b
+print(len(set(ans)))
