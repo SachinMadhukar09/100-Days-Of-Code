@@ -17,17 +17,16 @@ List of problems are:
     11.MAx & Min in Array(self 9min)
 
 ********      July 17 2021      ********
-Practice Basic Problems on List 
+Practice Medium Problems on List 
 List of problems are:
-    1.Reverse an array -------Not Completed 15min
+    1.Reverse an array (SELF 15min)
     2.Sum of Array (SELF 2min)
     3.Mean,Median Of Array (SELF 13min)
-    4.Array is Sorted Help ---------Not Completed 12m+10m+7m
+    4.Array is Sorted Help ---------Not Completed 12m+10m
     5.Rotate an Array ---------Not Completed 15m
-    6.Array is Sorted --------Not Completed 12+10m
    
 ********      July 18 2021      ********
-Practice Basic Problems on List 
+Practice Medium Problems on List 
 List of problems are:
     1.Max & min of array Revised (Self 10min)
     2.Sort an array of 0s,1s,2sRevised (Self 1min)
@@ -37,4 +36,14 @@ List of problems are:
 	
 
 ********      July 19 2021      ********
-
+Practice Medium Problems on List 
+List of problems are:
+    1.Cyclically rotate an array by one --Help 10
+    2.Kadane's Algorithm -------Not Completed 15m
+    3.Minimize the heights -------Not Completed 25m
+    4.Array is Sorted --Help--  7m
+    5.Rotate an Array --Help-- 25m
+        Link https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1/?track=DS-Python-Arrays&batchId=273
+    5.Union_Of_Two_array --Help-- 5min
+        Link https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#
+    
