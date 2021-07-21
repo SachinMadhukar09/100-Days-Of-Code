@@ -4,6 +4,8 @@
 
 Overview of DSA
 
-More Info [here] (../Day1.md)
+Alt-Day 1
+
+More Info [here] (Day 1\README.md)
 
 
