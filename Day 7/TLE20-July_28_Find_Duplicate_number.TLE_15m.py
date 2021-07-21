@@ -1,6 +1,6 @@
 # Link https://leetcode.com/problems/find-the-duplicate-number/
 
-# 20-July 06:30AM-06:45AM 15 min Not Completed
+# 20-July 06:30AM-06:45AM 15 min TLE
 
 # 287. Find the Duplicate Number
 # Medium
@@ -39,7 +39,8 @@
 
 # -----------TLE------------
 
-nums = [1,1,2]
+# nums = [1,1,2]
+nums = [3,1,3,4,2]
 for i in range(len(nums)-1):
             for j in range(i,len(nums)-1):
                 if(nums[i]==nums[j+1]):
