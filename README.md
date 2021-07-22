@@ -12,9 +12,9 @@ Intoduction Of List and operation of list
 
 ## Day 3
 
-### Practice 11 Problem of list 
-    - List of[Qusetions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%203/README.md)
-    - [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%203)
+Practice 11 Problem of list 
+- List of[Qusetions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%203/README.md)
+- [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%203)
 
 ## Day 4
 
