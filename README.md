@@ -4,11 +4,13 @@
 
 Overview of DSA
 
-More Info [here](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%201/README.md)
+Started GFG Course DS with Python.
+Analysis of algorithm
+
 
 ## Day 2
 
-Intoduction Of List and operation of list
+Intoduction to List and operation of list
 
 ## Day 3
 
