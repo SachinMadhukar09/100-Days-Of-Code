@@ -45,3 +45,4 @@ for i in range(len(nums)-1):
             for j in range(i,len(nums)-1):
                 if(nums[i]==nums[j+1]):
                     print(nums[i])
+                    

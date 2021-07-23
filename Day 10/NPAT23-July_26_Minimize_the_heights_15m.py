@@ -27,6 +27,8 @@
 # the largest and the smallest is 17-6 = 11. 
 
 
+# -------------------GFG solution---------
+
 def getMinDiff( arr, n, k):
         # code here
         

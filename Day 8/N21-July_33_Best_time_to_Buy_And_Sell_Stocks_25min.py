@@ -52,4 +52,8 @@ def maxProfit(prices):
 
 prices=[7,6,4,3,1]
 print(maxProfit(prices))
+
+
+
+
     
