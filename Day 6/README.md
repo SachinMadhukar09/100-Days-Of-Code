@@ -5,7 +5,7 @@
 ## List of problems are:
 
 1. Cyclically rotate an array by one --Help 10
-2. Kadane's Algorithm -------Not Completed 15m
+2. Kadane's Algorithm -------Not Completed 15m (Completed by Help 23-July)
 3. Minimize the heights -------Not Completed 25m
 4. Array is Sorted --Help--  7m
 5. Rotate an Array --Help-- 25m

@@ -1,4 +1,8 @@
-# 06:10AM-06:25AM Not Understand the question
+# Link  https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
+
+# 18 July 06:10AM-06:25AM Not Understand the question
+# 23-July 06:15AM-06:20AM 5min Completed by Help 
+
 
 # Kadane's Algorithm 
 # Medium Accuracy: 51.0% Submissions: 100k+ Points: 4

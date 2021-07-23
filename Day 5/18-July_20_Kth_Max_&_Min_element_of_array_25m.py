@@ -1,6 +1,6 @@
-# 7:00AM-7:25AM  25min Not Completed 
+# 7:00AM-7:25AM  25min Not Completed
 
-# Kth smallest element 
+# Kth smallest element
 # Medium Accuracy: 46.66% Submissions: 87860 Points: 4
 # Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 
@@ -12,7 +12,7 @@
 # K = 3
 # Output : 7
 # Explanation :
-# 3rd smallest element in the given 
+# 3rd smallest element in the given
 # array is 7.
 # Example 2:
 
@@ -22,7 +22,7 @@
 # K = 4
 # Output : 15
 # Explanation :
-# 4th smallest element in the given 
+# 4th smallest element in the given
 # array is 15.
 
 # ----------------------------------
@@ -44,15 +44,18 @@
 # print(kmax(arr,k))
 
 
+def kthSmallest(arr, k):
+    '''
+    arr : given array
+    l : starting index of the array i.e 0
+    r : ending index of the array i.e size-1
+    k : find kth smallest element and return using this function
+    '''
+    for i in range(k-1):
+        arr.remove(min(arr))
+    return min(arr)
 
-a=[6,3,8,4,1,23]
-n=len(a)
-q=[]
-for i in range(n):
-    for j in range(n):
-        if(a[i]>a[j]):
-            q.append(a[i])
-        else:
-            # q.append(a[j])  
-            break
-print(q)        
+
+arr = [1, 4, 7, 2, 45]
+k = 4
+print(kthSmallest(arr, k))
