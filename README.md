@@ -57,5 +57,5 @@ Practice 1 Problem of list
 ## Day 10
 
 Try to Solve 7 previous unsolved problems
-- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%2010/README.md)
-- [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%2010)
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day10/README.md)
+- [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day10)
