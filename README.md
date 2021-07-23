@@ -53,3 +53,9 @@ Practice 3 Problem of list
 Practice 1 Problem of list 
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%209/README.md)
 - [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%209)
+
+## Day 10
+
+Solved previous unsolved questions
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%2010/README.md)
+- [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%2010)
