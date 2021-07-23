@@ -56,6 +56,6 @@ Practice 1 Problem of list
 
 ## Day 10
 
-Solved previous unsolved questions
+Solved previous unsolved problems
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Day%2010/README.md)
 - [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Day%2010)
