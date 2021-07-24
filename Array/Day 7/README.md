@@ -1,4 +1,4 @@
-## Day 1
+## Day 7
 
 ## Practice Medium Problems on List 
 
