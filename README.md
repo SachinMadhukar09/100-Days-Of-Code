@@ -59,3 +59,11 @@ Practice 1 Problem of list
 Try to Solve 7 previous unsolved problems
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/Array/Day10/README.md)
 - [Solution](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/Array/Day10)
+
+# Day 11
+
+1. [Basics of Strings](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2011/24_July_00_Basics_of_Strings.py)
+
+2. Practice 3 problems on string.
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2011/README.md)
+- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2011)

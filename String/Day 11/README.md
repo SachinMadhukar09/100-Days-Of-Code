@@ -1,6 +1,6 @@
 # Day 11
 
-[Basics of Strings]().
+[Basics of Strings](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2011/24_July_00_Basics_of_Strings.py).
 
 ## Practice 3 problems of String
 
