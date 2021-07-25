@@ -1,5 +1,6 @@
 print("---Unicode")
 print(ord('a'))
+print(ord('z'))
 print(ord('A'))
 print(chr(97))
 print(chr(65))
