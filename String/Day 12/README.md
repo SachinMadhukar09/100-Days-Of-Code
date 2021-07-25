@@ -9,4 +9,4 @@ Practice 6 problems of String
 4. Longest Palindrome in a String (Not Completed 60min)
     - https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1
 5. Reverse every word of string (Completed by HELP 5min)
-6. Leetcode Contest Problem of String (Not Completed 45min)
+6. Leetcode Contest Problem of String  (Not Completed 45min)

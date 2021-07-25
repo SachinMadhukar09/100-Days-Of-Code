@@ -57,3 +57,7 @@ Try to Solve 7 previous unsolved problems of list.
 2. Practice 3 problems on string.
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2011/README.md)
 - [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2011)
+
+## Day 12
+- [Questions]()
+- [Solutions]()
