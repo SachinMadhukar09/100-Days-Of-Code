@@ -62,3 +62,8 @@ Try to Solve 7 previous unsolved problems of list.
 Practice 6 problems on string.
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2012/README.md)
 - [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2012)
+
+## Day 13
+Practice 6 problems on string.
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2013/README.md)
+- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2013)
