@@ -1,6 +1,7 @@
 # 25 July 06:50AM-07:04AM 14min Completed by HELP Not on GFG
         
 # ------Frequency of Characters------
+s="geeksforgeeks"
 for i in range(97,123):
     c=0
     j=chr(i)
