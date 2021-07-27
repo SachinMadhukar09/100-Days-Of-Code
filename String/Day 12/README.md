@@ -1,6 +1,6 @@
 # Day 12
 
-Practice 6 problems of String
+Practice 6 problems of String.
 
 1. Longest Repeating Subsequence (Not Completed 50min)
     - https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
