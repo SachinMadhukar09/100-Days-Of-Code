@@ -70,5 +70,5 @@ Practice 6 problems on string.
 
 ## Day 14
 Practice 3 problems on string.
-- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2013/README.md)
-- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2013)
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2014/README.md)
+- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2014)
