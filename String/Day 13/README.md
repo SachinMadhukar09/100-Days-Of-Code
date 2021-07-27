@@ -1,6 +1,6 @@
 # Day 13
 
-Practice 7 problems of String
+Practice 7 problems of String.
 
 1. Remove Duplicates (TLE HELP 22min)
 2. Print First and Last 2 words (Completed by HELP 2 min)
