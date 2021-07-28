@@ -1,4 +1,4 @@
-# 28 July 06:55AM-7:20AM Completed by HELP 25min
+# 28 July 06:55AM-7:15AM Completed by HELP 25min
 
 s="amaama"
 n=len(s)
