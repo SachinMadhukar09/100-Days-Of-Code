@@ -78,3 +78,11 @@ Practice 3 problems on string.
 Practice 2 problems on string.
 - [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2015/README.md)
 - [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2015)
+
+
+## Day 16
+Practice 5 problems on string.
+- [Questions](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/String/Day%2016/README.md)
+- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2016)
+
+
