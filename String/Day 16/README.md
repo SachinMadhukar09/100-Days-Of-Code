@@ -9,3 +9,4 @@ Practice 5 Basic problem of String.
 3. Accept the strings which contains all vowels ( Completed by SELF 11min)
 4. Count the Number of matching characters in a pair of string ( Completed by HELP 8min)
 5. Count number of vowels using sets in given string ( Completed by SELF 3min)
+6. Remove all duplicates from string ( Completed by HELP 19min)
