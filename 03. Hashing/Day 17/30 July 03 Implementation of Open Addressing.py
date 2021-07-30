@@ -28,6 +28,7 @@ class Myhash:
         t[i]=x
         self.size+=1
         return True
+        
     def delete(self, x):
         t=self.table
         h=self.hash(x)
@@ -43,11 +44,12 @@ class Myhash:
         
             
 m=Myhash(7)
-m.insert(43)
-m.insert(49)
-m.insert(53)
-m.insert(56)
-m.insert(64)
-m.insert(23)
-m.delete(43)
+print(m.insert(43))
+print(m.insert(49))
+print(m.insert(53))
+print(m.insert(56))
+print(m.insert(64))
+print(m.insert(23))
+print(m.delete(43))
+
 
