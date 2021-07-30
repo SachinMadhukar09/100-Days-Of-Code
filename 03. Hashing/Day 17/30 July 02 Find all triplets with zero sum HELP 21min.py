@@ -8,6 +8,8 @@
 #                  Logic    10min
 #                  Coding   5min
 
+# Link https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?problemType=functional&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&category[]=Hash&query=problemTypefunctionaldifficulty[]-1difficulty[]0page1sortBysubmissionscategory[]Hash#
+
 
 # Find all triplets with zero sum
 # Difficulty Level : Medium
