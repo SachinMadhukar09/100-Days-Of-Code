@@ -58,8 +58,8 @@
 # 6
 
 def fun(n):
-    if n==0:
-        return 0
+    if n<=0:
+        return 
     else: 
         fun(n/2)
         print(n%2)
