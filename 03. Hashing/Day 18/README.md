@@ -4,7 +4,7 @@ Practice 3 problems.
 
 1 problem on Hashing.
 
-1. Check for Pallimdrome Permutation (Completed by HELP not on GFG)
+1. Check for Palindrome Permutation (Completed by HELP not on GFG)
     - https://practice.geeksforgeeks.org/problems/anagram-palindrome4720/1
 
 2 problem on List.

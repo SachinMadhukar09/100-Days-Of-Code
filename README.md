@@ -99,7 +99,7 @@ Practice 3 problems.
 
 1 problem on Hashing.
 
-1. Check for Pallimdrome Permutation 
+1. Check for Palindrome Permutation 
     - https://practice.geeksforgeeks.org/problems/anagram-palindrome4720/1
 
 2 problem on List.
