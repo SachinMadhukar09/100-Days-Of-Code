@@ -93,3 +93,20 @@ Practice 1 problem on List.
 1. Find all triplets with zero sum
     - https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?problemType=functional&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&category[]=Hash&query=problemTypefunctionaldifficulty[]-1difficulty[]0page1sortBysubmissionscategory[]Hash#
 
+## Day 18
+
+Practice 3 problems.
+
+1 problem on Hashing.
+
+1. Check for Pallimdrome Permutation 
+    - https://practice.geeksforgeeks.org/problems/anagram-palindrome4720/1
+
+2 problem on List.
+
+2. Find triplets wit sum of Zero. 
+    - https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
+3. Subarray with sum Zero 
+    - https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
+
+- [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/03.%20Hashing/Day%2018)
