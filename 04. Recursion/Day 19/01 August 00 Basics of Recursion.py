@@ -61,6 +61,6 @@ def fun(n):
     if n<=0:
         return 
     else: 
-        fun(n/2)
+        fun(n//2)
         print(n%2)
-print(fun(2))
+print(fun(7))
