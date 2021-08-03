@@ -1,7 +1,7 @@
 def printnto1(n):
     if n<=0:
-        return 
+        return 0
     print(n)
-    print(n-1)
+    printnto1(n-1)
 n=9
 print(printnto1(n))
