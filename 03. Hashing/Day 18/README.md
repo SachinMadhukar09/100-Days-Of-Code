@@ -8,7 +8,6 @@ Practice 3 problems.
     - https://practice.geeksforgeeks.org/problems/anagram-palindrome4720/1
 
 2 problem on List.
-
 1. Find triplets wit sum of Zero. (Completed by HELP 10min not on GFG)
     - https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
 2. Subarray with sum Zero (Completed by HELP)
