@@ -116,3 +116,30 @@ Practice 3 problems.
 Started Recursion 
 
 - Practice Some basic concepts and problems of recursion.
+
+# Day 20
+
+Practice 5 problems on Recursion from Lecture.
+
+1. Sum of Natural Number.
+2. Print n to 1.
+3. Sum Of digits.
+4. Tower of Hanoi.
+5. Josephus Problem.
+
+# Day 21
+
+Practice 5 problems on Recursion.
+
+1. Print 1 to N.
+    - https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/?track=DS-Python-Recursion&batchId=273
+2. Print Factorial.
+    - https://practice.geeksforgeeks.org/problems/factorial-using-recursion/1/?track=DS-Python-Recursion&batchId=273#
+3. Count Total digits in Number.
+    - https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1/?track=DS-Python-Recursion&batchId=273
+4. Sum of Digit of Numbers.
+    - https://practice.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1/?track=DS-Python-Recursion&batchId=273
+5. Sum of N Numbers .
+    - https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1/?track=DS-Python-Recursion&batchId=273
+
+    [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2021)
