@@ -2,7 +2,7 @@
 
 ## Practice Medium Problems on List 
 
-### List of problems are:
+### List of problems:
 
 1. Max & min of array Revised (Completed by Self 10min)
 2. Sort an array of 0s,1s,2sRevised (Completed by Self 1min)

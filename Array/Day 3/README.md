@@ -2,7 +2,7 @@
 
 ## Practice 11 basic questions of array.
 
-### List of problems are:
+### List of problems :
 
 1. Array insert at end (Completed by SELF)
 2. Array insert at index (Completed by SELF)

@@ -2,7 +2,7 @@
 
 ## Practice Medium Problems on Array 
 
-### List of problems are:
+### List of problems:
 
 1. Reverse an array (Completed by SELF 15min)
 2. Sum of Array (Completed by SELF 2min)

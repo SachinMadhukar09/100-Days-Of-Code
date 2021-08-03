@@ -174,9 +174,11 @@ Practice 5 problems on string.
 - [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/String/Day%2016)
 
 ## Day 17
-Started Hashing 
+Started Hashing
+ 
 [Basic of Hasing](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/03.%20Hashing/Day%2017/30%20July%2000%20Basics%20of%20Hashing.py)
 - [Implentations in Hashing](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/03.%20Hashing/Day%2017)
+
 Practice 1 problem on List.
 1. Find all triplets with zero sum
     - https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1/?problemType=functional&difficulty[]=-1&difficulty[]=0&page=1&sortBy=submissions&category[]=Hash&query=problemTypefunctionaldifficulty[]-1difficulty[]0page1sortBysubmissionscategory[]Hash#

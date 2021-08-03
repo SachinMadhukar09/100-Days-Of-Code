@@ -2,7 +2,7 @@
 
 ## Practice Medium Problems on List 
 
-## List of problems are:
+## List of problems:
 
 1. Best time to Buy And Sell Stocks -----Not Completed 25min
     - Leetcode  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/

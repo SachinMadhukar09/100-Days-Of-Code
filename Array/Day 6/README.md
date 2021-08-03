@@ -2,7 +2,7 @@
 
 ## Practice Medium Problems on List 
 
-## List of problems are:
+## List of problems:
 
 1. Cyclically rotate an array by one --Help 10
 2. Kadane's Algorithm -------Not Completed 15m (Completed by Help 23-July)

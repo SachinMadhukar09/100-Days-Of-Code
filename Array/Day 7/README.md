@@ -2,7 +2,7 @@
 
 ## Practice Medium Problems on List 
 
-## List of problems are:
+## List of problems:
 
 1. Min no. of jumps ------------Not Completed 30m
     - Link https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1

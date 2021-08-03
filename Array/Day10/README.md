@@ -1,6 +1,6 @@
 # Day 10
 
-## Try to solve 7 previous unsolved problems
+## Try to solve 7 previous unsolved problems:
 3 completed 4 still unsolved
 
 1. Kadane's algo (Completed by HELP 5m)
