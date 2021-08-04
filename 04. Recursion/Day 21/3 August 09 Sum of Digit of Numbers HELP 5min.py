@@ -9,5 +9,4 @@ def fun(n):
     if n/10==0:
         return 1
     return (n%10)+fun(n//10)
-print(fun(43874))
-
+print(fun(64))

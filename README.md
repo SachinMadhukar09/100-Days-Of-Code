@@ -175,7 +175,7 @@ Practice 5 problems on string.
 
 ## Day 17
 Started Hashing
- 
+
 [Basic of Hasing](https://github.com/SachinMadhukar09/100-Days-Of-Code/blob/master/03.%20Hashing/Day%2017/30%20July%2000%20Basics%20of%20Hashing.py)
 - [Implentations in Hashing](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/03.%20Hashing/Day%2017)
 
@@ -233,3 +233,17 @@ Practice 5 problems on Recursion.
 5. Sum of N Numbers .
     - https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1/?track=DS-Python-Recursion&batchId=273
 - [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2021)
+
+# Day 22
+
+
+Practice 4 problems on Recursion.
+
+1. Print n Fibonacci Term. 
+    - https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1/?track=DS-Python-Recursion&batchId=273
+2. The Sequence. 
+    - https://practice.geeksforgeeks.org/problems/the-sequence/1/?track=DS-Python-Recursion&batchId=273
+3. Find the Value of nCr.
+    - https://practice.geeksforgeeks.org/problems/find-ncr/1/?track=DS-Python-Recursion&batchId=273
+4. Check For Palindrome. 
+    - https://practice.geeksforgeeks.org/problems/check-palindrome/1/?track=DS-Python-Recursion&batchId=273
