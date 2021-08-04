@@ -247,3 +247,4 @@ Practice 4 problems on Recursion.
     - https://practice.geeksforgeeks.org/problems/find-ncr/1/?track=DS-Python-Recursion&batchId=273
 4. Check For Palindrome. 
     - https://practice.geeksforgeeks.org/problems/check-palindrome/1/?track=DS-Python-Recursion&batchId=273
+-   [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2022)
