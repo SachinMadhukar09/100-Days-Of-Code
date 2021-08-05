@@ -236,7 +236,6 @@ Practice 5 problems on Recursion.
 
 # Day 22
 
-
 Practice 4 problems on Recursion.
 
 1. Print n Fibonacci Term. 
@@ -248,3 +247,17 @@ Practice 4 problems on Recursion.
 4. Check For Palindrome. 
     - https://practice.geeksforgeeks.org/problems/check-palindrome/1/?track=DS-Python-Recursion&batchId=273
 -   [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2022)
+
+# Day 23
+
+Practice 4 problems on Recursion.
+
+1. GCD Euclid.
+    - https://practice.geeksforgeeks.org/problems/gcd-euclid/1/?track=DS-Python-Recursion&batchId=273
+2. Print Array elements Using Recursion.
+    - https://practice.geeksforgeeks.org/problems/print-array-elements-using-recursion/1/?track=DS-Python-Recursion&batchId=273
+3. Power Using Recursion.
+    - https://practice.geeksforgeeks.org/problems/power-using-recursion/1/?track=DS-Python-Recursion&batchId=273
+4. Power of Reverse of its Own Number.
+    - https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/?track=DS-Python-Recursion&batchId=273
+-   [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2023)
