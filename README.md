@@ -270,3 +270,4 @@ Practice 2 problems of Searching.
 
 1. Linear Search.
 2. Binary Search.
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/05.Searching)
