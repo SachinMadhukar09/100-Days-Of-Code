@@ -261,3 +261,12 @@ Practice 4 problems on Recursion.
 4. Power of Reverse of its Own Number.
     - https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/?track=DS-Python-Recursion&batchId=273
 -   [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/04.%20Recursion/Day%2023)
+
+# Day 24
+
+Started Searching.
+
+Practice 2 problems of Searching.
+
+1. Linear Search.
+2. Binary Search.
