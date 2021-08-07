@@ -283,5 +283,5 @@ Practice 5 problems of Searching.
     - https://practice.geeksforgeeks.org/problems/count-1s-in-binary-array-1587115620/1/?track=DS-Python-Searching&batchId=273
 5. Square root of a number.
     - https://practice.geeksforgeeks.org/problems/square-root/1/?track=DS-Python-Searching&batchId=273
--  [Solutions]()
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/05.Searching/Day%2025)
 
