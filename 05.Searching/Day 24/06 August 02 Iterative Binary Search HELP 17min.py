@@ -3,6 +3,11 @@
 #                  Logic    12min  
 #                  Coding   5min 
 
+# Time Complexity  - O(logn)
+# Space Complexity  - O(1)
+
+# This solution most prefered
+
 def bsearch(l,x):
     low=0
     high=len(l)-1
