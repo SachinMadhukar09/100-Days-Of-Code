@@ -271,3 +271,17 @@ Practice 2 problems of Searching.
 1. Linear Search.
 2. Binary Search.
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/05.Searching)
+
+# Day 25
+
+Practice 5 problems of Searching.
+
+1. Recursive Binary Search.
+2. First Occurence of element.
+3. Last Occurence of element.
+4. Number of occurence of elements.
+    - https://practice.geeksforgeeks.org/problems/count-1s-in-binary-array-1587115620/1/?track=DS-Python-Searching&batchId=273
+5. Square root of a number.
+    - https://practice.geeksforgeeks.org/problems/square-root/1/?track=DS-Python-Searching&batchId=273
+-  [Solutions]()
+

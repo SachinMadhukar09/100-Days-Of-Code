@@ -1,4 +1,4 @@
-# 07 August 06:04AM-08:22PM 17min 
+# 07 August 06:04AM-06:22PM 18min 
                            # GFG 
 #                  Logic    14min  
 #                  Coding   4min 
