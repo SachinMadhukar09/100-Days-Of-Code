@@ -291,5 +291,6 @@ Practice 2 problems of Sorting.
 
 1. Bubble Sort.
 2. Selection Sort.
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2026) 
 
 
