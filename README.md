@@ -285,3 +285,11 @@ Practice 5 problems of Searching.
     - https://practice.geeksforgeeks.org/problems/square-root/1/?track=DS-Python-Searching&batchId=273
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/05.Searching/Day%2025)
 
+# Day 26
+
+Practice 2 problems of Sorting.
+
+1. Bubble Sort.
+2. Selection Sort.
+
+
