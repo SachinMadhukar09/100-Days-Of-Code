@@ -299,5 +299,5 @@ Practice 2 problems of Sorting.
 
 1. Insertion Sort.
 2. Merge Sort.
--  [Solutions]()
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2027)
 
