@@ -293,4 +293,11 @@ Practice 2 problems of Sorting.
 2. Selection Sort.
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2026) 
 
+# Day 27
+
+Practice 2 problems of Sorting.
+
+1. Insertion Sort.
+2. Merge Sort.
+-  [Solutions]()
 
