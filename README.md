@@ -301,3 +301,9 @@ Practice 2 problems of Sorting.
 2. Merge Sort.
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2027)
 
+# Day 28
+
+Practice 2 problems of Daffodil Test.
+
+1. A game.
+2. Sum of two Array.
