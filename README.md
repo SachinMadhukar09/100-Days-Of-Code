@@ -307,3 +307,18 @@ Practice 2 problems of Daffodil Test.
 
 1. A game.
 2. Sum of two Array.
+
+# Day 29
+
+Practice 1 problems on Sorting.
+
+1. Merge Sort.
+
+# Day 30
+
+Practice 2 problems on Sorting.
+
+1. Quick Sort by Naive Method.
+2. Quick Sort by Lomuto Partion.
+
+
