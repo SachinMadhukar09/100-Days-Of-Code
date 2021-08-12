@@ -307,12 +307,15 @@ Practice 2 problems of Daffodil Test.
 
 1. A game.
 2. Sum of two Array.
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2028)
 
 # Day 29
 
 Practice 1 problems on Sorting.
 
 1. Merge Sort.
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2029)
+
 
 # Day 30
 
@@ -320,5 +323,6 @@ Practice 2 problems on Sorting.
 
 1. Quick Sort by Naive Method.
 2. Quick Sort by Lomuto Partion.
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2030)
 
 
