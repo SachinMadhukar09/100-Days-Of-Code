@@ -325,4 +325,12 @@ Practice 2 problems on Sorting.
 2. Quick Sort by Lomuto Partion.
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2030)
 
+# Day 31
+
+Practice 2 problems on Sorting.
+
+1. Hoare's Partition.
+2. Quick Sort using Lomuto Partion.
+-  [Solutions]()
+
 
