@@ -331,6 +331,6 @@ Practice 2 problems on Sorting.
 
 1. Hoare's Partition.
 2. Quick Sort using Lomuto Partion.
--  [Solutions]()
+-  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2031)
 
 
