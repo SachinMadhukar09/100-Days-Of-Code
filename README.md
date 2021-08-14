@@ -333,4 +333,13 @@ Practice 2 problems on Sorting.
 2. Quick Sort using Lomuto Partion.
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2031)
 
+# Day 32
+
+Practice 1 problems on Sorting and Some Application of sorting.
+
+1. Quick Sort using Hoare's Partion.
+2. Application of Sorting
+-  [Solutions]()
+
+
 
