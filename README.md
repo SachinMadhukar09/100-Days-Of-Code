@@ -341,5 +341,11 @@ Practice 1 problems on Sorting and Some Application of sorting.
 2. Application of Sorting
 -  [Solutions](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/06.Sorting/Day%2032)
 
+# Day 33
+
+Revise 2 problems on Sorting.
+
+1. Bubble Sort.
+2. Selection Sort.
 
 
