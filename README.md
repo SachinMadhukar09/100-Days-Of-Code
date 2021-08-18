@@ -360,6 +360,11 @@ Revise 1 problems on Sorting.
 
 1. Merge Sort.
 
+# Day 36
+
+Revise 1 problems on Sorting.
+
+1. Merge Sort.
 
 
 
