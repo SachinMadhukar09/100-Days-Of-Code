@@ -366,5 +366,11 @@ Revise 1 problems on Sorting.
 
 1. Merge Sort.
 
+# Day 37
+
+Revise 1 problems on Sorting.
+
+1. Quick Sort.
+
 
 
