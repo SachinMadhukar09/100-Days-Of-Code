@@ -372,5 +372,19 @@ Revise 1 problems on Sorting.
 
 1. Quick Sort.
 
+# Day 38
+
+Started Linked List 
+
+Practice Implementation of Linked List
+
+1. Creating a list 
+2. Insert at beginning 
+3. Insert Values in form of Array
+4. Calculate Lenght of Array
+5. Insert Data at index
+6. Remove Data from index
+7. Print the list
+- [Code]()
 
 
