@@ -385,6 +385,6 @@ Practice Implementation of Linked List
 5. Insert Data at index
 6. Remove Data from index
 7. Print the list
-- [Code]()
+- [Code](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/07.Linked%20List/Day%2038)
 
 
