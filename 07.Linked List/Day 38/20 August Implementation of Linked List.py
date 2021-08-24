@@ -16,7 +16,7 @@ class Linked_List:
         self.head = None
 
     def insert_at_beg(self,data):
-        node=Node(data,next)
+        node=Node(data,self.head)
         self.head=node
     
     def insert_values(self,data_list):
@@ -75,4 +75,4 @@ ll=Linked_List()
 ll.insert_at_beg(8)
 ll.insert_at_beg(28)
 ll.insert_at_beg(18)
-print(ll)
+ll.print()
