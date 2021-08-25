@@ -3,7 +3,6 @@ class Node:
         self.data=data
         self.prev=None
         self.next=None
-
 def insertAtBeg(head,x):
     temp=Node(x)
     if head!=None:
@@ -15,8 +14,7 @@ def printi(head):
     curr=head
     while curr!=None:
         print(curr.data,end="  ")
-        curr=curr.next
-        
+        curr=curr.next        
 head=Node(5)
 head=insertAtBeg(head,10)
 head=insertAtBeg(head,20)
