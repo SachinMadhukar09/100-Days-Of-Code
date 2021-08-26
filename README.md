@@ -422,3 +422,12 @@ Practice Implementation of Doubly Linked List
 2. Delete Head and Last Node.
 3. Reverse Doubly Linked List.
 -  [Code](https://github.com/SachinMadhukar09/100-Days-Of-Code/tree/master/09.Doubly%20Linked%20List/Day%2043)
+
+# Day 44
+
+Started Stack
+
+Practice Implementation of Stack.
+
+1. Implementation of Stack using Linked List.
+-  [Code]()
